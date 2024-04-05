@@ -111,6 +111,7 @@ a {
 
 .product-details {
     padding: 30px;
+    height: 280px;
 }
 
 .product-catagory {
@@ -128,7 +129,7 @@ a {
     font-family: 'Nunito', sans-serif;
     text-transform: uppercase;
     display: block;
-    margin-bottom: 18px;
+    margin-bottom: 20px;
     color: #363636;
     text-decoration: none;
     transition: 0.3s;
@@ -158,7 +159,7 @@ a {
 }
 
 .product-price {
-    font-size: 18px;
+    font-size: 17px;
     color: #fbb72c;
     font-weight: 600;
     font-family: 'Nunito', sans-serif;
@@ -169,7 +170,6 @@ a {
     font-weight: 400;
     text-decoration: line-through;
     display: inline-block;
-    margin-right: 5px;
 }
 
 .product-links {
